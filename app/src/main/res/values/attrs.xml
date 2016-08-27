@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="VerTextView">
+        <attr name="vText" format="string" />
+        <attr name="vTextNum" format="integer" />
+        <attr name="vTextSize" format="reference" />
+        <attr name="vTextColor" format="color" />
+        <attr name="vTextStartAlign">
+            <flag name="left" value="0x0" />
+            <flag name="right" value="0x1" />
+        </attr>
+
+    </declare-styleable>
+
+</resources>
