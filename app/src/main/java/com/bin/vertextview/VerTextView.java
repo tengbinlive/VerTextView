@@ -169,7 +169,7 @@ public class VerTextView extends View {
             //wrap_content
             float tempHeight = Math.min(textHeight * textLength, heightSize);
             if (vTextNum != -1) {
-                tempHeight = vTextNum * textLength;
+                tempHeight = (vTextNum+1) * textLength;
             }
             specHeight = (int) (getPaddingTop() + tempHeight + getPaddingBottom());
         }

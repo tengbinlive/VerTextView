@@ -12,7 +12,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:background="@color/colorPrimary"
-            vr:vTextNum="16"
+            vr:vTextNum="15"
             vr:vText="@string/test"
             vr:vTextColor="@color/colorAccent"
             vr:vTextSize="@dimen/font_least" />
