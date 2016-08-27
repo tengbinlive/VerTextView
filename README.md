@@ -3,7 +3,7 @@
 [download  apk](https://github.com/tengbinlive/VerTextView/blob/master/apk)
 
 
-![animationsearchview](https://github.com/tengbinlive/VerTextView/blob/master/images/device-2016-08-27-194247.png) 
+![VerTextView](https://github.com/tengbinlive/VerTextView/blob/master/images/device-2016-08-27-194247.png) 
 
 
     <com.bin.vertextview.VerTextView
